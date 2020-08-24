@@ -1,4 +1,5 @@
 import pywifi
+import time
 # import comtypes
 
 
@@ -15,4 +16,9 @@ def connect(ssid, password):
     profile = iface.add_network_profile(profile)
     iface.connect(profile)
 
-def disconnect()
+def disconnect():
+    wifi = pywifi.PyWiFi()
+    iface = wifi.interfaces()[0]
+    iface.disconnect()
+
+

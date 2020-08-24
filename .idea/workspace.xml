@@ -11,15 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97d4a0f6-a471-4373-9e4b-c17cd34876f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MyWIFICracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyWIFICracker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/comtypes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/comtypes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/comtypes/client/_code_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/comtypes/client/_code_cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/clear_comtypes_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/clear_comtypes_cache.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wifi_connection_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/wifi_connection_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +48,28 @@
       <recent name="C:\Users\artte\OneDrive\שולחן העבודה\Work\Git\MyWIFICracker" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.wifi_connection_test">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyWIFICracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="wifi_connection_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyWIFICracker" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,6 +94,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.wifi_connection_test" />
+        <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -115,34 +131,38 @@
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598123020256" />
     <state x="2511" y="220" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598125589271" />
-    <state width="1362" height="210" key="GridCell.Tab.0.bottom" timestamp="1598126349558">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1598287421745">
+      <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="1362" height="210" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598126349558" />
-    <state width="1362" height="210" key="GridCell.Tab.0.center" timestamp="1598126349558">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598287421745" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1598287421744">
+      <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="1362" height="210" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598126349558" />
-    <state width="1362" height="210" key="GridCell.Tab.0.left" timestamp="1598126349558">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598287421744" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1598287421744">
+      <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="1362" height="210" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598126349558" />
-    <state width="1362" height="210" key="GridCell.Tab.0.right" timestamp="1598126349558">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598287421744" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1598287421745">
+      <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="1362" height="210" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598126349558" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1598126324726">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598287421745" />
+    <state x="2289" y="123" key="SettingsEditor" timestamp="1598286890385">
+      <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state x="461" y="165" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598126324726" />
-    <state x="2289" y="123" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598125280767" />
+    <state x="2289" y="123" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598286890385" />
     <state x="2281" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598126411687">
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state x="2281" y="145" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598126411687" />
-    <state x="2506" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598126404662">
+    <state x="2506" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598286700080">
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
-    <state x="2506" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598126404662" />
+    <state x="2506" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1598286700080" />
   </component>
 </project>
